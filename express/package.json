@@ -1,0 +1,16 @@
+{
+  "name": "express-ethanmick",
+  "version": "1.0.0",
+  "description": "An Express API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --es_staging index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ethan Mick",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "hapi-ethanmick",
+  "version": "1.0.0",
+  "description": "A simple Hapi API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --es_staging index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ethan Mick",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^10.4.1"
+  }
+}
